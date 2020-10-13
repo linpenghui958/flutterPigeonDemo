@@ -1,20 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="62e38ce4-dd4d-4eed-b32c-f3fcf1b772e2" name="Default Changelist" comment="" />
+    <list default="true" id="62e38ce4-dd4d-4eed-b32c-f3fcf1b772e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pigeon_temp_.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/src/main/kotlin/com/example/flutter_pigeon_demo/FlutterPigeonDemoPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/kotlin/com/example/flutter_pigeon_demo/FlutterPigeonDemoPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/_pigeon_temp_.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/android/src/main/kotlin/com/example/flutter_pigeon_demo/FlutterPigeonDemoPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/android/src/main/kotlin/com/example/flutter_pigeon_demo/FlutterPigeonDemoPlugin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/ios/Classes/FlutterPigeonDemoPlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/ios/Classes/FlutterPigeonDemoPlugin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/ios/Classes/FlutterPigeonDemoPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/ios/Classes/FlutterPigeonDemoPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/ios/Classes/SwiftFlutterPigeonDemoPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/lib/flutter_pigeon_demo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/lib/flutter_pigeon_demo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/pigeons/pigeonDemoMessage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_pigeon_demo/pigeons/pigeonDemoMessage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterPigeonDemoPlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterPigeonDemoPlugin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterPigeonDemoPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterPigeonDemoPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterPigeonDemoPlugin.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_pigeon_demo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_pigeon_demo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pigeons/pigeonDemoMessage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/pigeons/pigeonDemoMessage.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ioPRY2kWcTvKzq6xIdmayuk1Sl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -36,13 +68,29 @@
       <screen x="-528" y="-1440" width="2560" height="1440" />
     </state>
     <state x="600" y="-824" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602571046658" />
+    <state width="1485" height="366" key="GridCell.Tab.0.bottom" timestamp="1602589843288">
+      <screen x="-528" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1485" height="366" key="GridCell.Tab.0.bottom/-528.-1417.2560.1417/0.23.1680.952@-528.-1417.2560.1417" timestamp="1602589843288" />
+    <state width="1485" height="366" key="GridCell.Tab.0.center" timestamp="1602589843287">
+      <screen x="-528" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1485" height="366" key="GridCell.Tab.0.center/-528.-1417.2560.1417/0.23.1680.952@-528.-1417.2560.1417" timestamp="1602589843287" />
+    <state width="1485" height="366" key="GridCell.Tab.0.left" timestamp="1602589843285">
+      <screen x="-528" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1485" height="366" key="GridCell.Tab.0.left/-528.-1417.2560.1417/0.23.1680.952@-528.-1417.2560.1417" timestamp="1602589843285" />
+    <state width="1485" height="366" key="GridCell.Tab.0.right" timestamp="1602589843288">
+      <screen x="-528" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="1485" height="366" key="GridCell.Tab.0.right/-528.-1417.2560.1417/0.23.1680.952@-528.-1417.2560.1417" timestamp="1602589843288" />
     <state x="404" y="-963" width="695" height="486" key="find.popup" timestamp="1602571305236">
       <screen x="-528" y="-1440" width="2560" height="1440" />
     </state>
     <state x="404" y="-963" width="695" height="486" key="find.popup/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602571305236" />
-    <state x="417" y="-1058" width="670" height="676" key="search.everywhere.popup" timestamp="1602572167408">
+    <state x="417" y="-1058" width="670" height="676" key="search.everywhere.popup" timestamp="1602582697737">
       <screen x="-528" y="-1440" width="2560" height="1440" />
     </state>
-    <state x="417" y="-1058" width="670" height="676" key="search.everywhere.popup/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602572167408" />
+    <state x="417" y="-1058" width="670" height="676" key="search.everywhere.popup/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602582697737" />
   </component>
 </project>

@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_pigeon_demo/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: a2315aa92b22423fb158a6d3719191ca21fe3b1b
   flutter_pigeon_demo: b8b7aef9ef98a4dc022cc270ac3f304b40764961
 
 PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a

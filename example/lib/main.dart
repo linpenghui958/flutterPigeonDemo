@@ -3,6 +3,7 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:flutter_pigeon_demo/flutter_pigeon_demo.dart';
+import 'package:flutter_pigeon_demo/PigeonDemoMessage.dart';
 
 void main() {
   runApp(MyApp());
@@ -50,7 +51,26 @@ class _MyAppState extends State<MyApp> {
           title: const Text('Plugin example app'),
         ),
         body: Center(
-          child: Text('Running on: $_platformVersion\n'),
+          child: Column(
+            children: <Widget>[
+              Text('Running on: $_platformVersion\n'),
+              FlatButton(
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(50),
+                ),
+                padding: EdgeInsets.fromLTRB(30, 10, 30, 10),
+                color: Colors.black12,
+                child: Text(
+                  '测试pigeon',
+                ),
+                onPressed: () async {
+                  print('testPigeon');
+                  DemoReply res = await FlutterPigeonDemo.testPigeon();
+                  print('testPigeon res ${res.result}');
+                },
+              ),
+            ],
+          )
         ),
       ),
     );

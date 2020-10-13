@@ -1,26 +1,26 @@
 import 'package:pigeon/pigeon.dart';
 
-class AccountReply {
+class DemoReply {
   String result;
 }
 
-class AccountRequest {
+class DemoRequest {
   String methodName;
 }
 
 // 需要实现的api
 @HostApi()
-abstract class Api {
-  AccountReply getMessage(AccountRequest params);
+abstract class PigeonDemoApi {
+  DemoReply getMessage(DemoRequest params);
 }
 
 // 输出配置
 void configurePigeon(PigeonOptions opts) {
-  opts.dartOut = './lib/pigeonDemoMessage.dart';
-  opts.objcHeaderOut = 'ios/Classes/pigeonDemoMessage.h';
-  opts.objcSourceOut = 'ios/Classes/pigeonDemoMessage.m';
+  opts.dartOut = './lib/PigeonDemoMessage.dart';
+  opts.objcHeaderOut = 'ios/Classes/PigeonDemoMessage.h';
+  opts.objcSourceOut = 'ios/Classes/PigeonDemoMessage.m';
   opts.objcOptions.prefix = 'FLT';
   opts.javaOut =
-  'android/src/main/kotlin/com/tme/karaoke/framework/flutter/lib_flutter_account/pigeonDemoMessage.java';
+  'android/src/main/kotlin/com/example/flutter_pigeon_demo/PigeonDemoMessage.java';
   opts.javaOptions.package = 'package com.example.flutter_pigeon_demo';
 }
