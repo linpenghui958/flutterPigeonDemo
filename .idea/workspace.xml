@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62e38ce4-dd4d-4eed-b32c-f3fcf1b772e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ioPRY2kWcTvKzq6xIdmayuk1Sl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62e38ce4-dd4d-4eed-b32c-f3fcf1b772e2" name="Default Changelist" comment="" />
+      <created>1602570963481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602570963481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="600" y="-824" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1602571046658">
+      <screen x="-528" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="600" y="-824" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602571046658" />
+    <state x="404" y="-963" width="695" height="486" key="find.popup" timestamp="1602571305236">
+      <screen x="-528" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="404" y="-963" width="695" height="486" key="find.popup/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602571305236" />
+    <state x="417" y="-1058" width="670" height="676" key="search.everywhere.popup" timestamp="1602572167408">
+      <screen x="-528" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="417" y="-1058" width="670" height="676" key="search.everywhere.popup/-528.-1440.2560.1440/0.0.1680.1050@-528.-1440.2560.1440" timestamp="1602572167408" />
+  </component>
+</project>
